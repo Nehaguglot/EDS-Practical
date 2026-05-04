@@ -19,7 +19,6 @@ https://drive.google.com/file/d/13BoUkuDz9xPiGUUBGQaricp6Kc0QYqLF/view?usp=drive
 
 
 Cisco 
-
 Python Essentials 1:
 https://drive.google.com/file/d/1d-_kxjXcxbhpSKYfOOzGEiCsFyN3MRrC/view?usp=drivesdk
 
