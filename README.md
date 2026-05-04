@@ -15,3 +15,18 @@ https://drive.google.com/file/d/1Td3JWvIzkM3AD0oxukGAsRS5cY-nZRW9/view?usp=drive
 
 practical 5:
 https://drive.google.com/file/d/13BoUkuDz9xPiGUUBGQaricp6Kc0QYqLF/view?usp=drivesdk
+
+
+
+Cisco 
+Python Essentials 1:
+https://drive.google.com/file/d/1d-_kxjXcxbhpSKYfOOzGEiCsFyN3MRrC/view?usp=drivesdk
+
+Python Essentials 2:
+https://drive.google.com/file/d/1t-8huNPafeD5A4BYxkCaxYTgtRyPczcQ/view?usp=drivesdk
+
+IBM 
+https://drive.google.com/file/d/1mj0bGqQIjmaTlzxVKASoxUH8TWBAVNqB/view?usp=drivesdk
+
+
+
