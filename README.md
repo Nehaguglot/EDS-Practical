@@ -30,4 +30,6 @@ IBM
 https://drive.google.com/file/d/1mj0bGqQIjmaTlzxVKASoxUH8TWBAVNqB/view?usp=drivesdk
 
 
+Preskilet video 
+https://youtu.be/5mia8W-lkvI?si=A_8o08Rp9kNmbU_W
 
